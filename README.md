@@ -13,6 +13,9 @@ The objective of this project is to classify wine quality into two categories:
 
 The dataset is preprocessed, analyzed, and used to train multiple machine learning models. Hyperparameter tuning is performed to improve the final model's performance.
 
+## 🚀 Live Demo
+
+🔗 https://wine-quality-prediction-4udjvczvbtzwapmgvdtmgn.streamlit.app/
 ---
 
 ## 📂 Dataset
